@@ -5,6 +5,7 @@
     <br>支持多账号使用
 </p>
 
+
 <p align="center">
     <a href="https://t.me/dailycheckin"><img src="https://img.shields.io/badge/Talk-Telegram-brightgreen.svg?style=popout-square" alt="Telegram"></a>
     <a href="https://github.com/Sitoi/dailycheckin/stargazers"><img src="https://img.shields.io/github/stars/Sitoi/dailycheckin.svg?style=popout-square" alt="GitHub stars"></a>
